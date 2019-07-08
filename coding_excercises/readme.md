@@ -1,4 +1,4 @@
-## Excercises for Session 1:
+## Exercises for Session 1:
 
 1.) [Python and Numpy Basics](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/Python_Basics.ipynb):
   	  Get familiar with Python, Jupyter Notebook and Numpy. Learn about [Python Broadcasting](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html) and try to avoid for loops; use vectorization instead!
