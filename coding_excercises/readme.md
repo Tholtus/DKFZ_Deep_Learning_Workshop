@@ -5,5 +5,5 @@
 
 2.) [Build a logistic regression classifier to recognize cats](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/Neural_Network_Training.ipynb). (Slides 15-17 as reminder)
 
-3:) [Create an image dataset through Google Images](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/download_own_dataset.ipynb) and train your own Deep Learning Image Classifier. 
+3.) [Create an image dataset through Google Images](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/download_own_dataset.ipynb) and train your own Deep Learning Image Classifier. 
 (Check [Lesson Notebook](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/lesson_notebooks/1_pets.ipynb) and slide 22)
