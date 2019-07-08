@@ -3,5 +3,6 @@
 
 For local installation check out the following links: 
 
-Linux: https://github.com/fastai/fastai/blob/master/README.md#installation \n
+Linux: https://github.com/fastai/fastai/blob/master/README.md#installation
+
 Windows: https://forums.fast.ai/t/howto-installation-on-windows/10439
