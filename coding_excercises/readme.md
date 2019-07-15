@@ -11,4 +11,6 @@
 ## Exercises for Session 1:
 1.) [Build your Deep Neural Network (MLP)](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/MultiLayerPerceptron.ipynb): Step by Step
 
-2.) Ímplement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation.
+2.) [Ímplement convolutional (CONV) and pooling (POOL) layers in numpy](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/ConvolutionalNeuralNetwork.ipynb), including both forward propagation and backward propagation.
+
+3.) Implement [VGG16] (https://neurohive.io/en/popular-networks/vgg16/) or ResNeXt (https://arxiv.org/pdf/1611.05431.pdf) in PyTorch.
