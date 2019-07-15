@@ -9,6 +9,6 @@
 (Check [Lesson Notebook](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/lesson_notebooks/1_pets.ipynb) and slide 22)
 
 ## Exercises for Session 1:
-1.) [Building your Deep Neural Network (MLP)](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/MultiLayerPerceptron.ipynb): Step by Step
+1.) [Build your Deep Neural Network (MLP)](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/MultiLayerPerceptron.ipynb): Step by Step
 
-2.) 
+2.) Ímplement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation.
