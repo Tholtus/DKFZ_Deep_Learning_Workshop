@@ -1,2 +1,2 @@
-# DKFZ_Deep_Learning_Workshop
+# DKFZ Deep Learning Workshop
 Deep Learning Workshop at the DKFZ 
