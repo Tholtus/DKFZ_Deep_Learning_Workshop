@@ -1,5 +1,5 @@
 # DKFZ Deep Learning Workshop
-Welcome to the Deep Learning Workshop at the DKFZ 
+Welcome to the Deep Learning Workshop at DKFZ 
 
 Join our Slack-Channel!
 
