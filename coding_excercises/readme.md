@@ -18,4 +18,4 @@
 ## Exercises for Session 2:
 1.) [Implement different optimization methods](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/Optimization.ipynb)
 
-2.) Predict salary of a person using tabular data 
+2.) [Predict salary of a person using tabular data](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/tabular_data.ipynb)
