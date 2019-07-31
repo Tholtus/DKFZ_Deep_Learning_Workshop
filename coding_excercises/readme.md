@@ -15,7 +15,7 @@
 
 3.) Implement [VGG16](https://neurohive.io/en/popular-networks/vgg16/) or [ResNeXt](https://arxiv.org/pdf/1611.05431.pdf) (advanced) in PyTorch. Use this [notebook](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/recreate_architectures.ipynb) as small assistance.
 
-## Exercises for Session 2:
+## Exercises for Session 3:
 1.) [Implement different optimization methods](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/Optimization.ipynb)
 
 2.) [Predict salary of a person using tabular data](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/tabular_data.ipynb)
