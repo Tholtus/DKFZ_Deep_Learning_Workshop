@@ -19,3 +19,6 @@
 1.) [Implement different optimization methods](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/Optimization.ipynb)
 
 2.) [Predict salary of a person using tabular data](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/tabular_data.ipynb)
+
+## Exercises for Session 4:
+1.) [Build your Recurrent Neural Network (RNN) and Long short-term memory(LSTM) model](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/RNN_StepbyStep.ipynb): Step by Step
