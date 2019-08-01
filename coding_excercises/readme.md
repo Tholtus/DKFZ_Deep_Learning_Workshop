@@ -22,3 +22,4 @@
 
 ## Exercises for Session 4:
 1.) [Build your Recurrent Neural Network (RNN) and Long short-term memory(LSTM) model](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/RNN_StepbyStep.ipynb): Step by Step
+2.) [Build a language model to predict the next Number written out in english](https://github.com/Tholtus/DKFZ_Deep_Learning_Workshop/blob/master/coding_excercises/human_numbers.ipynb)
